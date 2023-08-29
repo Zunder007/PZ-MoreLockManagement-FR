@@ -1,0 +1,16 @@
+ItemName_FR = {
+
+ItemName_Base.CarLockNeimanPart = "Neiman",
+ItemName_Base.CarLockDoorPart = "Serrure de portiére",
+ItemName_Base.PrintTool = "Outil à empreinte",
+ItemName_Base.PrintToolCar = "Outil à empreinte Neiman",
+ItemName_Base.CarKeyCutter = "Pince de serrurier",
+ItemName_Base.BlankHouseKey = "Clé de maison vierge",
+ItemName_Base.BlankCarKey = "Clé de véhicule vierge",
+ItemName_Base.BlankKeyPadlock = "Clé de cadenas vierge",
+ItemName_Base.Key_Duplication_Machine = "Machine de serrurier électrique",
+
+ItemName_Base.KitLockKeyHouse = "Kit Serrure",
+ItemName_Base.KitBlankLockKeyHouse = "Kit Serrure vierge",
+
+}
