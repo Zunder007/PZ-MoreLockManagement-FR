@@ -13,4 +13,5 @@ ItemName_Base.Key_Duplication_Machine = "Machine de serrurier électrique",
 ItemName_Base.KitLockKeyHouse = "Kit Serrure",
 ItemName_Base.KitBlankLockKeyHouse = "Kit Serrure vierge",
 
+	ItemName_Base.NoThing = "Rien",
 }
