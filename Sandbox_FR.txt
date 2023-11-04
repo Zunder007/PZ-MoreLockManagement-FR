@@ -1,0 +1,7 @@
+Sandbox_FR = {
+	Sandbox_MoreLock = "More Lock Management",
+	Sandbox_MoreLockCarpentrySkillNeeded = "Compétence en menuiserie nécessaire",
+	Sandbox_MoreLockMetalWorkSkillNeeded = "Compétence en travail des métaux nécessaire",
+	Sandbox_MoreLockMechanicSkillNeeded = "Compétence en mécanique nécessaire",
+	Sandbox_MoreLockElectricitySkillNeeded = "Compétence en électricité nécessaire",
+}
